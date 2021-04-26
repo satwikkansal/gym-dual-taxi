@@ -1,0 +1,3 @@
+-e ./gym/
+matplotlib
+numpy~=1.19.5
